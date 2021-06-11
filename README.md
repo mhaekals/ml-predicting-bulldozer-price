@@ -6,3 +6,4 @@ Predicting the Sale Price of Bulldozers using Machine Learning (Regression Probl
 * numpy
 * matplotlib
 * scikit-learn
+* jupyter notebook
